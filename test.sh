@@ -1,0 +1,1 @@
+tis is script file
